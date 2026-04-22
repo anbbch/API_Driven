@@ -232,6 +232,7 @@ Résultats attendus :
 {"message": "Instance i-xxx stoppee"}
 {"message": "Instance i-xxx demarree"}
 ```
+<img width="1374" height="296" alt="image" src="https://github.com/user-attachments/assets/df567f24-b62c-4b0d-ae84-2afcc074cdfc" />
 
 ---
 
